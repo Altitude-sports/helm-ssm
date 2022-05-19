@@ -9,7 +9,7 @@ are not supported by this plugin, since the helm engine funcMap is now private. 
 ## 2.0.x
 
 **NOTE:** Some initial versions of the 2.0.x cycle were wrongly published and for that reason they should start on 2.0.2,
-you can check [GitHub releases](https://github.com/codacy/helm-ssm/releases) for the last release with artifacts attached.
+you can check [GitHub releases](https://github.com/Altituide-sports/helm-ssm/releases) for the last release with artifacts attached.
 
 - Removed `required` field
 - Added `default` field.

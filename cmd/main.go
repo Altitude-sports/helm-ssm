@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	hssm "github.com/codacy/helm-ssm/internal"
+	hssm "github.com/Altituide-sports/helm-ssm/internal"
 	"github.com/spf13/cobra"
 )
 
