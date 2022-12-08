@@ -10,6 +10,5 @@ metadata:
     backstage.io/techdocs-ref: dir:../docs
 spec:
   type: service
-  
   owner: devops2
   lifecycle: production
